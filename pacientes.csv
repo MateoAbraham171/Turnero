@@ -1,0 +1,6 @@
+id,dni,nombre,apellido,telefono,email,direccion_calle,direccion_numero
+1,34211600-P,Rocío,Vargas,954-220-247,rocio.vargas@example.com,Calle de Tetuán,9662
+2,59759090-J,Rodrigo,López,996-889-511,rodrigo.lopez@example.com,Calle de Bravo Murillo,913
+3,88395976-J,Isaac,Gallego,953-429-977,isaac.gallego@example.com,Calle de La Democracia,3910
+4,97196748-E,Gloria,Pérez,966-628-981,gloria.perez@example.com,Calle de Ferraz,5539
+5,49944668-F,Emilia,Moreno,964-601-376,emilia.moreno@example.com,Calle del Prado,5452

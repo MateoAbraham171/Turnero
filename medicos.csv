@@ -1,0 +1,16 @@
+id,dni,nombre,apellido,telefono,matricula,email,habilitado
+1,07173692-Z,Iván,Gómez,916-625-159,XdEcHs,ivan.gomez@example.com,si
+2,23255681-W,Alex,Moreno,903-361-760,cZpcSY,alex.moreno@example.com,si
+3,72763083-A,German,Santana,968-347-590,peZBII,german.santana@example.com,si
+4,52954098-Y,Fátima,Blanco,941-116-010,ugJjOF,fatima.blanco@example.com,si
+5,43401293-K,Gloria,Diaz,957-020-624,Kvkmac,gloria.diaz@example.com,si
+6,18364738-V,Mar,Rojas,992-552-515,TBNnJA,mar.rojas@example.com,si
+7,04919213-P,Mohamed,Aguilar,981-695-152,EikMfp,mohamed.aguilar@example.com,si
+8,86073485-G,Mónica,Bravo,910-050-105,drobAd,monica.bravo@example.com,si
+9,50904154-N,Silvia,Sáez,985-764-709,WimlXk,silvia.saez@example.com,si
+10,18159860-J,Blanca,Caballero,940-274-208,aJbOCO,blanca.caballero@example.com,si
+11,16663554-H,Roberto,Gallego,945-946-529,vHFrYQ,roberto.gallego@example.com,si
+12,62223586-M,Mariano,Campos,963-383-195,uOHVjK,mariano.campos@example.com,si
+13,84511618-U,Marco,Soto,911-802-674,lmlNJF,marco.soto@example.com,si
+14,05192006-T,Marc,Caballero,932-937-008,GJfAGs,marc.caballero@example.com,si
+15,31041927-H,Oscar,Soto,923-571-373,nUsAmA,oscar.soto@example.com,si
